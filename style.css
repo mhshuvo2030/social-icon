@@ -4,6 +4,8 @@
 }
 .social-icon{
 
+  text-align: center;
+  margin-top: 20px;
 }
 .social-icon a{
     text-decoration: none;
@@ -68,6 +70,61 @@
 .social-icon h2 {
   font-style: italic;
   font-size: 40px;
-  margin-left: 276px;
+  /*! margin-left: 276px; */
   margin-top: 15px;
+}
+.ri-admin-line{
+    font-size: 30px;
+    padding: 0 5px;
+}
+
+.ri-home-2-line {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-store-3-line {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-layout-grid-fill {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-bug-2-line {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-rss-line {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-signal-wifi-fill {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-file-zip-line {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-pages-fill {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-heading {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-align-bottom {
+  font-size: 30px;
+  padding: 0 5px;
+}
+.ri-map-pin-line {
+  font-size: 30px;
+  p: 0 5px;
+}
+.wi.wi-day-sunny {
+  /*! font-size: 85px; */
+}
+svg {
+  /*! font-size: 65px; */
 }
