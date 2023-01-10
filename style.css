@@ -1,0 +1,73 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+.social-icon{
+
+}
+.social-icon a{
+    text-decoration: none;
+    background-image: url(img/photoshop.png);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 10px;
+    background-position: -113px -68px;
+    text-indent: 99999px;
+    transition: all 0.5s ease-out;
+    margin-left: 10px;
+}
+.social-icon a:hover {
+     background-position: -113px -168px;
+     transition: all 0.5s ease-in-out;
+}
+.social-icon a.chorome{
+     background-position: -231px -68px;
+}
+.social-icon a.chorome:hover{
+    background-position: -231px -170px;
+    transition: all 0.6s ease-in-out;
+}
+
+.social-icon a.massanger{
+    background-position: -350px -68px;
+}
+.social-icon a.massanger:hover{
+    background-position: -350px -168px;
+    transition: all 0.6s ease-in-out;
+}
+.social-icon a.twiter{
+    background-position: -476px -68px;
+}
+.social-icon a.twiter:hover{
+     background-position: -484px -168px;
+    transition: all 0.6s ease-in-out;
+}
+.social-icon a.facebook{
+    background-position: -588px -68px;
+}
+.social-icon a.facebook:hover{
+     background-position: -587px -171px;
+    transition: all 0.6s ease-in-out;
+}
+.social-icon a.media{
+    background-position: -700px -68px;
+}
+.social-icon a.media:hover{
+     background-position: -700px -171px;
+    transition: all 0.6s ease-in-out;
+}
+.social-icon a.instagram{
+    background-position: -826px -68px;
+}
+.social-icon a.instagram:hover{
+     background-position: -826px -171px;
+    transition: all 0.6s ease-in-out;
+}
+
+.social-icon h2 {
+  font-style: italic;
+  font-size: 40px;
+  margin-left: 276px;
+  margin-top: 15px;
+}
